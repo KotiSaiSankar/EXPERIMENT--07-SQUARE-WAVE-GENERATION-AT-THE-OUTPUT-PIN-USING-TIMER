@@ -1,6 +1,6 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-## Name : ATHMAJ VENUGOPAL
-## Reg no : 212222240014
+## Name : Koti Sai Sankar
+## Reg no : 212222240111
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
